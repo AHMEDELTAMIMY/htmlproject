@@ -1,0 +1,113 @@
+*{
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+header{
+    background-color:#3B5998;
+    height: 80px;
+    display: flex;
+}
+.logo{
+    margin-left: 340px;
+    padding-top: 15px;
+}
+.log-in{
+    display: flex;
+    margin-left: 400px;
+    color: white;
+}
+.log-in input {
+    height: 20px;
+    margin-top: 50px;
+    margin-left: -40px;
+}
+.log-in button{
+    height: 25px;
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color: #617AAC;
+    color: white;
+}
+section{
+    background-color: #FBFBFD;
+    display: flex;
+}
+.map{
+    font-size: 20px;
+    margin-left: 350px;
+    width: 400px;
+}
+.map img{
+    border-radius: 20px;
+}
+.sign-up{
+    width: 300px;
+    margin-left: 240px;
+    height: 650px;
+}
+.sign-up h4{
+    margin-bottom: 1px;
+    font-size: 15px;
+    text-decoration: none;
+}
+.inputs{
+    height: 20px;
+    margin: 3px;
+}
+.sub-inputs{
+    width: 190px;
+}
+#iam{
+    width: 100px;
+    border-radius: 30%;
+    margin: 3px;
+}
+#Iam{
+    margin-left: 30px;
+}
+.birthday{
+    width: 55px;
+    border-radius: 30%;
+    margin: 4px;
+}
+#why{
+    margin-left: 58px;
+    font-size: 14px;
+}
+#clicking{
+    width: 250px;
+    margin-left: 60px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.sign-up button{
+    width: 120px;
+    background-color: #67A54B;
+    font-size: 19px;
+    margin-left: 57px;
+    color: white;
+}
+#create{
+    font-size: 16px;
+    margin-left: 20px;
+}
+footer{
+    background-color: white;
+    width: 860px;
+    margin-left: 430px;
+}
+.languages{
+    word-spacing: 6px;
+}
+.copyright{
+    display: inline-block;
+}
+.links{
+    display: inline;
+    margin-left: 100px;
+}
+.link{
+    margin-left: 435px;
+}
